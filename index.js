@@ -36,9 +36,16 @@ Object.defineProperty(Boolean.prototype, 'type', {
     }
 });
 
+//----------
+//Array
 Object.defineProperty(Array.prototype, '_', {
     get () {
         console.log(this.valueOf());
+    }
+});
+Object.defineProperty(Array.prototype, 'type', {
+    get () {
+        console.log(typeof this.valueOf());
     }
 });
 
