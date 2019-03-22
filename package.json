@@ -1,0 +1,34 @@
+{
+  "name": "log._",
+  "version": "1.0.0",
+  "description": "This package is light weight and for Lazy guys. It helps to print the variable with post `_` (Underscore) and helps to check the type of it by `type`. Insted of console.log();",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "console.log",
+    "lazy",
+    "easy",
+    "print",
+    "debug",
+    "code",
+    "console",
+    "terminal",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Mayur N. Chhapra",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Mayur Chhapra",
+      "email": "mayurchhapra@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
