@@ -1,5 +1,5 @@
 {
-  "name": "log._",
+  "name": "log-var",
   "version": "1.0.0",
   "description": "This package is light weight and for Lazy guys. It helps to print the variable with post `_` (Underscore) and helps to check the type of it by `type`. Insted of console.log();",
   "main": "index.js",
@@ -30,5 +30,9 @@
   ],
   "dependencies": {
     "nodemon": "^1.18.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayurchhapra/log-var.git"
   }
 }
