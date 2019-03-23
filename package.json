@@ -28,9 +28,6 @@
       "email": "mayurchhapra@gmail.com"
     }
   ],
-  "dependencies": {
-    "nodemon": "^1.18.10"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mayurchhapra/log-var.git"
