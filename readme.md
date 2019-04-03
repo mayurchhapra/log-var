@@ -17,8 +17,17 @@ import the package:
 declare the variable and log.
 
     const value = 10;
-    a._         // 10
-    a.type      // number
+    value._         // 10
+    value.type      // number
+or you can simply log the value like
 
+    using string:
 
-This will easy your debugging. Happy Logging. :)
+    "This is simple example of log-var"._       //this will print string to the console.
+    "This is simple example of log-var".type       //string
+
+    Using numner:
+    10._        // 10
+    10._        //number
+
+Explorer it, This will make your life easier.
