@@ -30,4 +30,4 @@ or you can simply log the value like
     10._        // 10
     10._        //number
 
-Explorer it, This will make your life easier.
+Explore it, This will make your life easier.
